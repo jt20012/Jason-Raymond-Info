@@ -1,3 +1,6 @@
+---
+title: Extra Info 
+---  
 For some extra info outside of employment, here is a list of hobbies I have:  
 **Chess  
 Video Games  
