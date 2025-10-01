@@ -18,7 +18,7 @@ my previously worked positions include
   Seasonal Chef at Innis Arden Golf Club**
 
 ## **Contact Info:**
-  If you wish to contact me, you can reach me in the following ways
+  If you wish to contact me, you can reach me in the following ways  
   **Email:** Jason.raymond@uconn.edu  
   **Phone:** 475-243-8476  
   **Linkedin:** Jason Raymond  
