@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Jason Raymond
 ---
 Hello, I am Jason Raymond and this page is dedicated to all information about me  
 
