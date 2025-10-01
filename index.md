@@ -5,6 +5,7 @@ Hello, I am Jason Raymond and this page is dedicated to all information about me
 
 ## **Education:**  
   I am a senior physics student at the University of Connecticut with a general concentration. I have also gained experience coding in Python and Julia, along with 2D modeling in AutoCAD, along with 3D modeling in SolidWorks. Specifically:  
+  
   **Physics with General Concentration: University of Connecticut (Spring2022-Fall2025)  
   2D and 3D AutoCAD: Housatonic Community College (Winter2024-2025)  
   Solidworks: Housatonic Community College (Summer2025)**  
